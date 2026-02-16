@@ -12,5 +12,3 @@ print("After Insert:", h.data)
 print("Extracted max:", h.extract_max())
 print("After extract:", h.data) # 10 got out
 print("Heap sort:", h.heap_sort()) # Highest to lowest
-
-# 
